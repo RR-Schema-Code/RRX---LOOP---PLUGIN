@@ -1,0 +1,9 @@
+.vs/
+**/bin/
+**/obj/
+*.csproj.user
+*.suo
+*.user
+
+# Lokal gespeicherte Vorlagen und Projektdaten
+/vorlagen.xml
